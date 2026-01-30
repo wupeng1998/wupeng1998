@@ -40,7 +40,3 @@ I am a **Ph.D. student at the School of Artificial Intelligence, Wuhan Universit
 
 ---
 
-### 📊 Github Contributions
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wupeng1998&show_icons=true&theme=nord&include_all_commits=true" />
-</p>
