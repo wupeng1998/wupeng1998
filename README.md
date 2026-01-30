@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👨‍🔬 Hello, I'm Peng Wu 
 
-<!--
-**wupeng1998/wupeng1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wupeng1998&label=Profile%20Views&color=0e75b6&style=flat-square" alt="wupeng1998" />
+</p>
 
-Here are some ideas to get you started:
+### 🤖 About Me
+I am a **Ph.D. student at the School of Artificial Intelligence, Wuhan University**. My research stands at the frontier of **AI for Science (AI4Sci)**, specifically focusing on building **LLM-based Protein Agents** to bridge the gap between generative AI and functional protein engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Focus**: Developing intelligent agents powered by Large Language Models for automated protein design and functional annotation.
+- 🧪 **Expertise**: Integrating microbial genomics, metabolic modeling, and deep learning to solve complex biological problems.
+- 🎓 **Education**: Ph.D. in Artificial Intelligence @ **Wuhan University**.
+- ✉️ **Contact**: [wupengflipped@163.com](mailto:wupengflipped@163.com)
+
+---
+
+### 📚 Selected Publications & Patents
+
+#### 📑 Journal Articles
+* **(Accepted, 2026)** *Development of biocontrol agents for cotton verticillium wilt using microbiome analysis.* **Wanyi Zhang**, ..., **Peng Wu**, et al.
+* **(2023)** *Genome sequencing and metabolic network reconstruction of a novel sulfur-oxidizing bacterium Acidithiobacillus Ameehan AME_WP1377.* **Peng Wu**, et al. [cite_start]*Frontiers in Microbiology*. 
+* **(2023)** *Synergistic Iron-Sulfur Metabolism in Two Extremophilic Acidophiles Is Supported by Cysteine Cross-feeding.* Tingting Cheng, ..., **Peng Wu**, et al. *mSystems*.
+* **(2021)** *A synthetic biology toolkit for the plasmid-dependent and thermophilic methylotroph Bacillus methanolicus.* **Peng Wu**, et al. [cite_start]*Frontiers in Bioengineering and Biotechnology*. 
+
+#### 📜 Patents
+* **(Granted)** 一株极端嗜酸硫氧化菌新种及其应用 (A novel species of extreme acidophilic sulfur-oxidizing bacteria and its application). [cite_start]Inventor: **Peng Wu**. 
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLMs%20%26%20Agents-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Protein_Design-00599C?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metabolic_Modeling-228B22?style=flat-square" />
+</p>
+
+---
+
+### 📊 Github Contributions
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wupeng1998&show_icons=true&theme=nord&include_all_commits=true" />
+</p>
