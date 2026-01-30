@@ -17,13 +17,15 @@ I am a **Ph.D. student at the School of Artificial Intelligence, Wuhan Universit
 ### 📚 Selected Publications & Patents
 
 #### 📑 Journal Articles
-* **(Accepted, 2026)** *Development of biocontrol agents for cotton verticillium wilt using microbiome analysis.* **Wanyi Zhang**, ..., **Peng Wu**, et al.
-* **(2023)** *Genome sequencing and metabolic network reconstruction of a novel sulfur-oxidizing bacterium Acidithiobacillus Ameehan AME_WP1377.* **Peng Wu**, et al. [cite_start]*Frontiers in Microbiology*. 
-* **(2023)** *Synergistic Iron-Sulfur Metabolism in Two Extremophilic Acidophiles Is Supported by Cysteine Cross-feeding.* Tingting Cheng, ..., **Peng Wu**, et al. *mSystems*.
-* **(2021)** *A synthetic biology toolkit for the plasmid-dependent and thermophilic methylotroph Bacillus methanolicus.* **Peng Wu**, et al. [cite_start]*Frontiers in Bioengineering and Biotechnology*. 
+* **(Accepted, 2026, Three author)** *Development of biocontrol agents for cotton verticillium wilt using microbiome analysis.* **Wanyi Zhang**, ..., **Peng Wu**, et al.
+* * **(Accepted, 2026, Coauthor)** *Synergistic Iron-Sulfur Metabolism in Two Extremophilic Acidophiles Is Supported by Cysteine Cross-feeding.* Tingting Cheng, ..., **Peng Wu**, et al. *jbjournal*.
+* * **(2026,Six author)** *A synthetic biology toolkit for the plasmid-dependent and thermophilic methylotroph Bacillus methanolicus.* **Peng Wu**, et al. [cite_start]*Frontiers in Bioengineering and Biotechnology*. 
+* **(2023, First author)** *Genome sequencing and metabolic network reconstruction of a novel sulfur-oxidizing bacterium Acidithiobacillus Ameehan AME_WP1377.* **Peng Wu**, et al. [cite_start]*Frontiers in Microbiology*. 
+
+
 
 #### 📜 Patents
-* **(Granted)** 一株极端嗜酸硫氧化菌新种及其应用 (A novel species of extreme acidophilic sulfur-oxidizing bacteria and its application). [cite_start]Inventor: **Peng Wu**. 
+* **(Granted, 2024)** 一株极端嗜酸硫氧化菌新种及其应用 (A novel species of extreme acidophilic sulfur-oxidizing bacteria and its application). [cite_start]Inventor: **Peng Wu**. 
 
 ---
 
