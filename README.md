@@ -1,9 +1,5 @@
 # 👨‍🔬 Hello, I'm Peng Wu 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wupeng1998&label=Profile%20Views&color=0e75b6&style=flat-square" alt="wupeng1998" />
-</p>
-
 ### 🤖 About Me
 I am a **Ph.D. student at the School of Artificial Intelligence, Wuhan University**. My research stands at the frontier of **AI for Science (AI4Sci)**, specifically focusing on building **LLM-based Protein Agents** to bridge the gap between generative AI and functional protein engineering.
 
