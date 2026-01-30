@@ -18,8 +18,8 @@ I am a **Ph.D. student at the School of Artificial Intelligence, Wuhan Universit
 
 #### 📑 Journal Articles
 * **(Accepted, 2026, Three author)** *Development of biocontrol agents for cotton verticillium wilt using microbiome analysis.* **Wanyi Zhang**, ..., **Peng Wu**, et al.
-* * **(Accepted, 2026, Coauthor)** *Synergistic Iron-Sulfur Metabolism in Two Extremophilic Acidophiles Is Supported by Cysteine Cross-feeding.* Tingting Cheng, ..., **Peng Wu**, et al. *jbjournal*.
-* * **(2026,Six author)** *A synthetic biology toolkit for the plasmid-dependent and thermophilic methylotroph Bacillus methanolicus.* **Peng Wu**, et al. [cite_start]*Frontiers in Bioengineering and Biotechnology*. 
+* **(Accepted, 2026, Coauthor)** *Synergistic Iron-Sulfur Metabolism in Two Extremophilic Acidophiles Is Supported by Cysteine Cross-feeding.* Tingting Cheng, ..., **Peng Wu**, et al. *jbjournal*.
+* **(2026,Six author)** *A synthetic biology toolkit for the plasmid-dependent and thermophilic methylotroph Bacillus methanolicus.* **Peng Wu**, et al. [cite_start]*Frontiers in Bioengineering and Biotechnology*. 
 * **(2023, First author)** *Genome sequencing and metabolic network reconstruction of a novel sulfur-oxidizing bacterium Acidithiobacillus Ameehan AME_WP1377.* **Peng Wu**, et al. [cite_start]*Frontiers in Microbiology*. 
 
 
